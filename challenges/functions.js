@@ -12,9 +12,6 @@ const consume = function(a, b, cb) {
 }
 
 
-
-
-
 //console.log(consume(a, b))
 /* Step 2: Create several functions to callback with consume();
   * Create a function named add that returns the sum of two numbers
